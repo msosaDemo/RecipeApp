@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "RBackgroundImage.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
