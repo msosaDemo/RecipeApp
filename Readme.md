@@ -17,7 +17,9 @@ Error Handling: Basic error handling is implemented with try/catch for network-r
 UI: Built with SwiftUI and the MVVM pattern, the app features declarative syntax, real-time previews, reusable components, automatic device support, and responsive animations.
 
 # Time Spent: 
-I dedicated a total of 5 hours to developing this project with small breaks of 10-15min in-between hours, including time spent testing the application on my devices. Additionally, I allocated 2.5 hours to recreating the project using Swift and the older multi-threaded closure syntax for comparison (optional, not a requirement). The results demonstrated a clear performance improvement when using the SwiftUI framework, in addition to the numerous other advantages it offers, such as eliminating the need for storyboards.
+I dedicated a total of 5 hours to developing this project with small breaks of 10-15min in-between hours, including time spent testing the application on my devices. Additionally, I allocated 2.5 hours to recreating the project using Swift and the older multi-threaded closure syntax for comparison (optional, not a requirement). 
+You can find the second project here: https://github.com/msosaDemo/MPRecipeApp.git
+The results demonstrated a clear performance improvement when using the SwiftUI framework, in addition to the numerous other advantages it offers, such as eliminating the need for storyboards.
 
 # Trade-offs:
 From a developer with majority of his experience developing in Swift (UIKit or AppKit) rather than SwiftUI I definitely encounter some trade-offs when using SwiftUI:
