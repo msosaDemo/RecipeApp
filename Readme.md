@@ -5,7 +5,7 @@ A sample application demonstrating the core usage of MVVM, SwiftUI, Swift, Swift
 0.1
 
 # Steps to Run the App
-To launch the project, simply open the app file. The application will display a list of recipes retrieved from the following endpoint: https://d3jbb8n5wk0qxi.cloudfront.net/recipes.json.
+To launch the project, simply open the app file. The application will display a list of recipes retrieved from the following endpoint: https://d3jbb8n5wk0qxi.cloudfront.net/recipes.json
 
 # Focus Areas: 
 Reliability: The code is designed for scalability and maintainability.
