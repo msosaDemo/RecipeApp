@@ -22,7 +22,7 @@ I dedicated a total of 5 hours to developing this project with small breaks of 1
 # Trade-offs:
 From a developer with majority of his experience developing in Swift (UIKit or AppKit) rather than SwiftUI I definitely encounter some trade-offs when using SwiftUI:
 
-1. Comlpexity vs. Simplicity
+1. Complexity vs. Simplicity
 Swift is more complex on its own, requireing more manual setup.
 
 2. Control vs Convenience:
